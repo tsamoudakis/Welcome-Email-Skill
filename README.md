@@ -1,5 +1,7 @@
 # Welcome Email Skill
 
+![Welcome Email Skill cover](cover.jpeg)
+
 A skill for Claude that guides you through a structured conversation and generates a high-converting welcome email for your business, newsletter, or product.
 
 ## What it does
